@@ -1,5 +1,8 @@
 _repo: Lords-of-Creation-Woman-Suffrage-Drama-in-Three-Acts_63198
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63198-h/images/cover.jpg
 creator:
   author:
     agent_name: Thayer, Ella Cheever
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26421
     wikipedia: http://en.wikipedia.org/wiki/Ella_Cheever_Thayer_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63198#Lords-of-Creation-Woman-Suffrage-Drama-in-Three-Acts
 gutenberg_issued: '2020-09-14'
 gutenberg_type: Text
 identifiers:
